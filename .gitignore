@@ -1,2 +1,24 @@
-.venv
+
+# Ambientes virtuais
+venv/
 .env
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários
+*.log
+*.csv
+*.sqlite3
+*.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Configurações locais
+.vscode/
+.DS_Store
+Thumbs.db
